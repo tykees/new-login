@@ -1,0 +1,78 @@
+body {
+  background: #f8f8f8;
+}
+
+.card {
+  margin: 0 auto;
+  width: 450px;
+  text-align: center;
+}
+
+.card h5 {
+  color: #3c5eb0;
+}
+
+.icon {
+  color: #3c5eb0;
+  border-right: 1px solid #3c5eb0;
+}
+
+.input-icons i {
+  position: absolute;
+}
+
+.input-icons {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+input {
+  border-bottom: 1px solid #3c5eb0 !important;
+}
+
+.fa-user {
+  padding-top: 5px;
+  min-width: 20px;
+}
+
+.fa-lock {
+  min-width: 20px;
+  padding-top: 5px;
+  color: #94909096;
+}
+
+.input-field {
+  width: 100%;
+  border: none;
+  padding-left: 30px;
+  outline: none;
+}
+
+.check {
+  border-right: 1px solid #94909096;
+  padding-right: 15px;
+}
+
+a {
+  text-decoration: none !important;
+  color: #3c5eb0;
+}
+
+.list-inline {
+  color: #3c5eb0;
+}
+
+.btn-primary {
+  border-radius: 10px;
+  border-color: #172842;
+  background: #172842;
+}
+
+.btn-primary:hover {
+  background: #172842;
+}
+
+i small {
+  color: #94909096;
+  padding-left: 20px;
+}
